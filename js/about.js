@@ -1,1 +1,1 @@
-console.log("about page message");
+console.log("about page");
